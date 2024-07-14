@@ -31,9 +31,9 @@ Maharani Book memiliki beberapa halaman yang diperuntukkan untuk admin dan   cus
 - Kelola Pengguna
 - Kelola Transaksi
 
-![alt text](127.0.0.1_5500_chackout.html.png)
-![alt text](127.0.0.1_5500_fantasy.html.png)
 ![alt text](127.0.0.1_5500_index.html.png)
+![alt text](127.0.0.1_5500_fantasy.html.png)
+![alt text](127.0.0.1_5500_chackout.html.png)
 ![alt text](127.0.0.1_5500_user-profile.html.png)
 
 Link template Customer
