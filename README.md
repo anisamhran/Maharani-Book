@@ -2,15 +2,14 @@
 # NIM : 434221034
 # Mata Kuliah : Workshop Desain UI/UX
 
-Proyek Website Berdasarkan User Persona (Andi)
+*Proyek Website Berdasarkan User Persona (Andi)*
 ![alt text](<User Persona Andi.png>)
 
-Judul Proyek : Sistem Informasi "Maharani Book" - Website Penjualan Buku Online
-Deskripsi :
-Maharani Book merupakan proyek sistem informasi penjualan buku berbasis website yang dibuat untuk memenuhi tugas akhir dari mata kuliah Workshop Desain UI. Proyek ini bertujuan untuk memberikan solusi digital yang mempermudah proses jual beli buku secara online, serta mengintegrasikan fitur-fitur yang mendukung pengalaman pengguna yang optimal.
+*Judul Proyek : Sistem Informasi "Maharani Book" - Website Penjualan Buku Online*
+*Deskripsi :*
+Maharani Book merupakan proyek sistem informasi penjualan buku berbasis website yang dibuat untuk memenuhi tugas akhir dari mata kuliah Workshop Desain UI. Proyek ini bertujuan untuk memberikan solusi digital yang mempermudah proses jual beli buku secara online, serta mengintegrasikan fitur-fitur yang mendukung pengalaman pengguna yang optimal dengan bahasa pemrograman Javascript.
 
 Maharani Book memiliki beberapa halaman yang diperuntukkan untuk admin dan   customer diantaranya :
-
 #Customer#
 - Login
 - Landing Page
