@@ -2,7 +2,7 @@
 # NIM : 434221034
 # Mata Kuliah : Workshop Desain UI/UX
 
-*Proyek Website Berdasarkan User Persona (Andi)*
+*Proyek Website Berdasarkan User Persona (Andi) Yang Ditentukan*
 
 ![alt text](<User Persona Andi.png>)
 
