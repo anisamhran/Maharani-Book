@@ -11,6 +11,7 @@ Maharani Book merupakan proyek sistem informasi penjualan buku berbasis website 
 
 Maharani Book memiliki beberapa halaman yang diperuntukkan untuk admin dan   customer diantaranya :
 
+#Customer#
 - Login
 - Landing Page
 - Profil
@@ -23,6 +24,7 @@ Maharani Book memiliki beberapa halaman yang diperuntukkan untuk admin dan   cus
 - Artikel
 - Detail Artikel
 
+#Admin#
 - Login
 - Dashboard
 - Profil
